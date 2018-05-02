@@ -154,6 +154,8 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Running tests page]: http://www.jhipster.tech/documentation-archive/v4.14.3/running-tests/
 [Setting up Continuous Integration]: http://www.jhipster.tech/documentation-archive/v4.14.3/setting-up-ci/
 
+Using travis CI for Continuous integration
+
 
 [Node.js]: https://nodejs.org/
 [Yarn]: https://yarnpkg.org/
